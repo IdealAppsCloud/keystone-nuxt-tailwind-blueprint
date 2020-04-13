@@ -1,0 +1,5 @@
+dist/
+.idea/*
+/node_modules
+/src/tailwind.config.js
+/src/assets/css/tailwind.css
